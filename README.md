@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋, Soy Nathaly Sánchez
+alguna de las herramientas que uso
+vscode bash php php php php php php php php php php php
+Este es mi Portafolio para el curso de Desarrollo de Software para Platafromas Móvil.
+
+Adjunto mis Repositorios realizados durante el curso 
 
 <!--
 **NathalyS0/NathalyS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
