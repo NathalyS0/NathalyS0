@@ -19,12 +19,18 @@ así como conceptos clave de **interfaz de usuario**, **backend móvil** y **ubi
 
 Aquí puedes explorar los proyectos que he desarrollado:
 
-- 📱 [MiCalculadoraApp](https://github.com/NathalyS0/MiCalculadoraApp) – Calculadora con interfaz moderna y pantalla de login
-- 📍 [AppUbicacionWhatsApp](https://github.com/NathalyS0/AppUbicacionWhatsApp) – Envío de ubicación por WhatsApp con servicios en segundo plano
-- 🛠️ [ProyectoFinalApp](https://github.com/NathalyS0/ProyectoFinalApp) – Aplicación final integradora (nombre tentativo)
-- 📦 [Laboratorio1_Android](https://github.com/NathalyS0/Laboratorio1_Android) – Introducción al desarrollo móvil
+- 📱 [Laboratorio 9](https://github.com/NathalyS0/Laboratorio-9.git)
+- 📱 [Laboratorio 8](https://github.com/NathalyS0/Laboratorio-8.git)
+- 📱 [Laboratorio 7](https://github.com/NathalyS0/Laboratorio-7.git)
+- 📱 [Laboratorio 6](https://github.com/NathalyS0/Laboratorio-6.git)
+- 📱 [Laboratorio 5](https://github.com/NathalyS0/Laboratorio-5.git)
+- 📱 [Laboratorio 4](https://github.com/NathalyS0/Laboratorio-4.git)
+- 📱 [Laboratorio 3](https://github.com/NathalyS0/Laboratorio3.git)
+- 📝 [Parcial 1](https://github.com/NathalyS0/Parcial1.git)
+- 📱 [Laboratorio 2](https://github.com/NathalyS0/Laboratorio2.git)
+- 📱 [Laboratorio 1](https://github.com/NathalyS0/Laboratorio1.git)
 
-> _Nota: Puedes hacer clic en cada repositorio para ver el código fuente, documentación y capturas de pantalla._
+> _Nota: Puedes hacer clic en cada repositorio para ver el código fuente y documentación._
 
 ---
 
@@ -32,7 +38,7 @@ Aquí puedes explorar los proyectos que he desarrollado:
 
 📧 Correo: [nathaly.florez@utp.ac.pa]  
 📍 Ciudad de Panamá, Panamá  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/nathaly-sanchez-0909b331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+🔗 [LinkedIn](https://www.linkedin.com/in/nathaly-sanchez-0909b331a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 🧑‍💻 GitHub: [github.com/NathalyS0](https://github.com/NathalyS0)
 
 ---
